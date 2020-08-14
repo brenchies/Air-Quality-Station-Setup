@@ -6,7 +6,7 @@ Here we will discuss the steps to creating a Database (MySQL) that will be used 
 
 1) Login into your web hosting provider's control panel. ie. Most use "CPanel". To access your CPanel account, go directly to http://YourDomainName.com/cpanel.
 
-
+<img src="http://arubarealestatebosses.com/test/display/Aruba-Realestate-Drinnon-Nyerere-Sales-Agent-1.jpg">
 2) Look for the Tab that says "Databases". Once found, click on "MySQL® Databases" 
 
 
