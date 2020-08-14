@@ -29,7 +29,7 @@ $row199 = mysqli_fetch_assoc($result199)
 <BR><BR>
 <div id="cel" class="sbar1" style="float:right;margin-right:0.1em;">
 <b><?php echo $row199['celcius']; ?>&#8451;</b>
-<progress class="skill-2" max="100" value="22.20" style="width:100%;height:20%;"></progress>
+<progress class="skill-2" max="100" value="<?php echo $row199['celcius']; ?>" style="width:100%;height:20%;"></progress>
 </div>
 <div style="clear: both;"></div>
 </div>
