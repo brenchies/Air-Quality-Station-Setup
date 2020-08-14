@@ -50,12 +50,12 @@ $Unit_ID = "1";
 $YourUnitSecretName = "LennoxHonychurch"; 
 $Limits = "5"; ( /* Number of result (rows) you desire for graph and hourly data */ )
 
-You done ? Now, let us do the same for the "Database Details".
+You done ? Now, let us do the same for the "Database Details".<BR><BR>
 
-$Database_Username = "the_username";
-$Database_Password = "the_password";
-$Database_Name = "the_database_name";
-$Database_Table = "airquality";
+$Database_Username = "the_username";<BR>
+$Database_Password = "the_password";<BR>
+$Database_Name = "the_database_name";<BR>
+$Database_Table = "airquality";<BR><BR>
 
 3_ Step Three : Moving Files Over
 
