@@ -17,7 +17,7 @@ from the air quality monitoring unit. You can follow this video (<a href="https:
 <b>2</b>) Look for the Tab that says "Databases". Once found, click on "<b>MySQL® Databases</b>" <BR>
 <img src="http://science.brenchies.com/aq/img/databases.png" alt="" style="width:50%;padding:1em;"><br><BR>
 <b>3</b>) Here we need to do three (<b>3</b>) things. <b>Firstly</b>, you should go ahead and create a database name of your choice then click "Create Database".<BR>
-<img src="http://science.brenchies.com/aq/img/createdatabase.png" alt="" style="width:50%;padding:1em;"><BR>
+<img src="http://science.brenchies.com/aq/img/createdatabase.png" alt="" style="width:50%;padding:1em;"><BR><BR>
 <b>Secondly</b>, you need to create a MySQL user account. Scroll down the same page and look for the area that says "MySQL Users". Insert a Username and Password combination of your choice then click "Create User".
 <b>Lastly</b>, scroll on that same MySQL page for where it says "Add User to Database". Under the user drop down menu bar, select the MySQL user account you just created and under the database drop down menu, select 
 the database name you created for your unit. Next click "Add". On the "<b>Manage User Privileges</b>" page, ensure to select the "<B>ALL PRIVILEGES</b>" radio button, then click "<b>Make Changes</b>".<BR>
