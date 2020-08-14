@@ -95,6 +95,13 @@ Make simple changes like Legal position, Graph Title and graph background color.
          backgroundColor: '#fff' /* <b>Change background color using Hexadecimals</b> */<BR>
         };<BR><BR>
 </p>
+  
+<h1>Final Product: </h1><br>
+
+<p>
+<img src="http://science.brenchies.com/aq/img/aq-station.png" alt="" style="width:80%;">
+</p><BR><BR>
+  
 <h1> For Help : </h1><br>
 <p>
 For assistance, click <a href="http://science.brenchies.com/contactus/" target="_new">Here</a>.
